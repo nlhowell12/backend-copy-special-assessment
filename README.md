@@ -21,7 +21,7 @@ Gather a list of the absolute paths of the special files in all the directories.
     /Users/piero/Documents/github/kenzie/backend-copy-special-assessment/xyz__hello__.txt
     /Users/piero/Documents/github/kenzie/backend-copy-special-assessment/zz__something__.jpg
 
-
+    
 We'll assume that names are not repeated across the directories (optional: check that assumption and error out if it's violated).
 
 Part B (file copying)
